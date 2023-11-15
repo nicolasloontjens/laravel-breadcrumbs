@@ -1,15 +1,15 @@
 {
-    "name": "creitive/laravel-breadcrumbs",
-    "description": "Breadcrumbs integration for Laravel 7+",
+    "name": "nicolasloontjens/laravel-breadcrumbs",
+    "description": "Breadcrumbs integration for Laravel 10",
     "keywords":[
         "laravel",
         "breadcrumbs"
     ],
-    "homepage":"https://github.com/creitive/laravel-breadcrumbs",
+    "homepage":"https://github.com/nicolasloontjens/laravel-breadcrumbs",
     "authors": [
         {
-            "name": "Milos Levacic",
-            "email": "milos.levacic@creitive.com"
+            "name": "Nicolas Loontjens",
+            "email": "nicolas@nicolasloontjens.com"
         }
     ],
     "license": "MIT",
