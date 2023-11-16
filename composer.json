@@ -32,5 +32,7 @@
                 "Breadcrumbs": "Creitive\\Breadcrumbs\\Facades\\Breadcrumbs"
             }
         }
-    }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "stable"
 }
